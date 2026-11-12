@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning project that groups e-commerce customers into distinct behavioral profiles using **RFM Analysis** and unsupervised clustering (**K-Means & Hierarchical Clustering**), and trains a supervised classification model to predict **customer churn** in real time through a deployed Streamlit web application.
 
-🌐 **Live Demo:** [Try the Streamlit Churn Prediction App Here](https://YOUR-STREAMLIT-LINK.streamlit.app)
+🌐 **Live Demo:** [Try the Streamlit Churn Prediction App Here](https://ecommerce-customers-churn-prediction.streamlit.app/)
 
 ---
 
