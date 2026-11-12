@@ -1,0 +1,21 @@
+1) Case-1 
+Total Purchases (Frequency) = 3
+Total Spend (Monetary) = 1200
+Customer Tenure (days) = 250
+Last Purchase Date = 2025/10/01 
+Predict Churn - Likely to churn (Probability: 0.46)
+
+2) Case-2
+Total Purchases (Frequency) = 8
+Total Spend (Monetary) = 4500
+Customer Tenure (days) = 250
+Last Purchase Date = 2026/02/15
+Predict Churn - Not likely to churn (Probability: 0.36)
+
+3) Case-3
+Total Purchases (Frequency) = 20
+Total Spend (Monetary) = 15000
+Customer Tenure (days) = 300
+Last Purchase Date = 2026/04/10
+Predict Churn- Not likely to churn (Probability: 0.29)
+

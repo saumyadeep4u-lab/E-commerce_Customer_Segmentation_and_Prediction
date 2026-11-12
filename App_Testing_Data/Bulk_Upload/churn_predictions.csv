@@ -1,0 +1,4 @@
+CustomerID,Recency,Frequency,Monetary,Tenure,AOV,AvgGap,MaxGap,StdGap,RecentFreq,RecentMonetary,ActivityRatio,Trend,CLV_Proxy,RecencyRatio,Churn_Probability,Risk_Level,Churn_Prediction,Recommended Action
+10005,19,2,4040,54,2020,35,35,0,1,2240,0.037037037,0,74.81481481,0.351851852,0.448005445,Medium Risk,1,Send targeted offers
+10002,68,3,3760,155,1253.333333,43.5,51,10.60660172,0,0,0.019354839,1,24.25806452,0.438709677,0.337737809,Low Risk,0,Maintain engagement
+10003,14,3,5090,63,1696.666667,24.5,26,2.121320344,1,2070,0.047619048,-1,80.79365079,0.222222222,0.230749678,Low Risk,0,Maintain engagement
